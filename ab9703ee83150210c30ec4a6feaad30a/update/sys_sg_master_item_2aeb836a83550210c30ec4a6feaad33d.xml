@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>cmn_location</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Location Form Screen">a2eb836a83550210c30ec4a6feaad339</embedded_screen>
+        <item_view/>
+        <name>Location master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 17:01:54</sys_created_on>
+        <sys_id>2aeb836a83550210c30ec4a6feaad33d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Location master_item</sys_name>
+        <sys_package display_value="Visitas " source="x_1343312_vst">ab9703ee83150210c30ec4a6feaad30a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitas ">ab9703ee83150210c30ec4a6feaad30a</sys_scope>
+        <sys_update_name>sys_sg_master_item_2aeb836a83550210c30ec4a6feaad33d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 17:01:54</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Location List Screen View Config">eaeb8f2a83550210c30ec4a6feaad32d</view_config>
+    </sys_sg_master_item>
+</record_update>

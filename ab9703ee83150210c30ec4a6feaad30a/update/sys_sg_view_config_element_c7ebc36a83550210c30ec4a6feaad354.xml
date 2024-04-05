@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>e_mail-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 17:01:56</sys_created_on>
+        <sys_id>c7ebc36a83550210c30ec4a6feaad354</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e_mail-FieldValue</sys_name>
+        <sys_package display_value="Visitas " source="x_1343312_vst">ab9703ee83150210c30ec4a6feaad30a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitas ">ab9703ee83150210c30ec4a6feaad30a</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_c7ebc36a83550210c30ec4a6feaad354</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 17:01:56</sys_updated_on>
+        <view_config display_value="Cadastro de Visitantes  Detail Screen View Config">4febc36a83550210c30ec4a6feaad353</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
